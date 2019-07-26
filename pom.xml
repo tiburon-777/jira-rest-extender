@@ -7,7 +7,7 @@
 
     <groupId>su.tiburon.atlassian.jira</groupId>
     <artifactId>rest-extender</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <packaging>atlassian-plugin</packaging>
 
     <name>REST API extender for JIRA</name>
@@ -22,13 +22,13 @@
 
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/tiburon-777/rest-extender/issues</url>
+        <url>https://github.com/tiburon-777/jira-rest-extender/issues</url>
     </issueManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/tiburon-777/rest-extender.git</connection>
-        <developerConnection>scm:git:git@github.com:tiburon-777/rest-extender.git</developerConnection>
-        <url>https://github.com/tiburon-777/rest-extender</url>
+        <connection>scm:git:git://github.com/tiburon-777/jira-rest-extender.git</connection>
+        <developerConnection>scm:git:git@github.com:tiburon-777/jira-rest-extender.git</developerConnection>
+        <url>https://github.com/tiburon-777/jira-rest-extender</url>
     </scm>
     
     <organization>
